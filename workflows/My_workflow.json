@@ -1,0 +1,28 @@
+{
+  "name": "My workflow",
+  "nodes": [
+    {
+      "parameters": {},
+      "type": "n8n-nodes-base.manualTrigger",
+      "typeVersion": 1,
+      "position": [
+        0,
+        0
+      ],
+      "id": "951c5801-975a-476c-8caf-761ca74f5f9d",
+      "name": "When clicking ‘Execute workflow’"
+    }
+  ],
+  "pinData": {},
+  "connections": {},
+  "active": false,
+  "settings": {
+    "executionOrder": "v1"
+  },
+  "versionId": "a68730fb-f3b8-4111-8687-f3dd132075b2",
+  "meta": {
+    "instanceId": "e36b7f20189f16e2a53fb3c760c54a8f6722dc67c6e2a8d1ca05dd2439722398"
+  },
+  "id": "KIhCueRGhRYhvsDK",
+  "tags": []
+}
